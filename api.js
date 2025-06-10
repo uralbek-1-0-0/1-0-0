@@ -1,4 +1,4 @@
-document.getElementById("api").innerHTML = "Uralbek UZ";
+document.getElementById("api_aa001").innerHTML = "S";
 document.getElementById("").innerHTML = "Uralbek UZ";
 document.getElementById("").innerHTML = "Uralbek UZ";
 document.getElementById("").innerHTML = "Uralbek UZ";
