@@ -228,7 +228,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	border: 1px solid #fafbfC;
-	border-radius: 50%;
+	border-radius: 90% 270%;
 } 
 
 .earth-orbit {
