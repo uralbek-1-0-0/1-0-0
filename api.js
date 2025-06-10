@@ -1,5 +1,5 @@
 document.getElementById("api_aa001").innerHTML = "Soʻzboshi";
-document.getElementById("api_aa002").innerHTML = "Oʻzbekiston Respublikasi mustaqillikka erishgandan buyon oʻtgan vaqt ichida jahon hamjamiyatida oʻz oʻrniga, dunyo siyosati maydonida oʻz mustaqil ovoziga ega boʻlgan davlat sifatida tan olindi. ";
+document.getElementById("api_aa002").innerHTML = "Oʻzbekiston Respublikasi mustaqillikka erishgandan buyon oʻtgan vaqt ichida jahon hamjamiyatida oʻz oʻrniga, dunyo siyosati maydonida oʻz mustaqil ovoziga ega boʻlgan davlat sifatida tan olindi. Respublikamiz Prezidenti I. A. Karimov olib borayotgan oqilona tashqi siyosat tufayli yurtdoshlarimiz jahon mamlakatlari boʻylab erkin safar qilish imkoniyatiga ega boʻldilar.";
 document.getElementById("").innerHTML = "Uralbek UZ";
 document.getElementById("").innerHTML = "Uralbek UZ";
 document.getElementById("").innerHTML = "Uralbek UZ";
