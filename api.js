@@ -1,5 +1,5 @@
-document.getElementById("api_aa001").innerHTML = "So‘zboshi";
-document.getElementById("").innerHTML = "Uralbek UZ";
+document.getElementById("api_aa001").innerHTML = "Soʻzboshi";
+document.getElementById("api_aa002").innerHTML = "Uralbek UZ";
 document.getElementById("").innerHTML = "Uralbek UZ";
 document.getElementById("").innerHTML = "Uralbek UZ";
 document.getElementById("").innerHTML = "Uralbek UZ";
